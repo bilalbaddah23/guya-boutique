@@ -1,0 +1,132 @@
+[
+  {
+    "file": "/images/collection-01.jpg",
+    "original": "C:\\Projects\\prospect-research\\nov17-fashion-build2\\guya-boutique\\assets\\source-02.jpg",
+    "sha256": "014747dbfd5255adf596727ffaa0fe7e5e2b173af91e9f86a5bc9014ab768135",
+    "originalDimensions": [
+      361,
+      640
+    ],
+    "webDimensions": [
+      361,
+      640
+    ]
+  },
+  {
+    "file": "/images/collection-02.jpg",
+    "original": "C:\\Projects\\prospect-research\\nov17-fashion-build2\\guya-boutique\\assets\\source-03.jpg",
+    "sha256": "154e48fe1e3aa330ee8fd118df421b46281ee8c73fe95ad39b592659093452f9",
+    "originalDimensions": [
+      640,
+      480
+    ],
+    "webDimensions": [
+      640,
+      480
+    ]
+  },
+  {
+    "file": "/images/collection-03.jpg",
+    "original": "C:\\Projects\\prospect-research\\nov17-fashion-build2\\guya-boutique\\assets\\native-hero.jpg",
+    "sha256": "7f9a3296989cf1f18da8d5b3415f96e87d3f61539ea5ec763cc48e0ce4874d4a",
+    "originalDimensions": [
+      852,
+      1136
+    ],
+    "webDimensions": [
+      852,
+      1136
+    ]
+  },
+  {
+    "file": "/images/collection-04.jpg",
+    "original": "C:\\Projects\\prospect-research\\nov17-fashion-build2\\guya-boutique\\assets\\source-06.jpg",
+    "sha256": "0ba9bc082c8be22f86e330338ebd10d33840ba1dbd1b2ccc1f8e158b2cab5b93",
+    "originalDimensions": [
+      360,
+      640
+    ],
+    "webDimensions": [
+      360,
+      640
+    ]
+  },
+  {
+    "file": "/images/collection-05.jpg",
+    "original": "C:\\Projects\\prospect-research\\nov17-fashion-build2\\guya-boutique\\assets\\source-07.jpg",
+    "sha256": "e1123b3468cb8e5383a87c45a9183e167be73cc0ecd800af9d4e12721b582038",
+    "originalDimensions": [
+      361,
+      640
+    ],
+    "webDimensions": [
+      361,
+      640
+    ]
+  },
+  {
+    "file": "/images/collection-06.jpg",
+    "original": "C:\\Projects\\prospect-research\\nov17-fashion-build2\\guya-boutique\\assets\\source-08.jpg",
+    "sha256": "75faf5badd1a8b87cb54f3d3a9188aeb69c63ea2993aacb002f4e5de0b7ae6f8",
+    "originalDimensions": [
+      360,
+      640
+    ],
+    "webDimensions": [
+      360,
+      640
+    ]
+  },
+  {
+    "file": "/images/collection-07.jpg",
+    "original": "C:\\Projects\\prospect-research\\nov17-fashion-build2\\guya-boutique\\assets\\source-10.jpg",
+    "sha256": "7db93dafea9bc0a48fd5a22de4e0377c2844cb1a9125bc66b4fcc5d17f388096",
+    "originalDimensions": [
+      563,
+      640
+    ],
+    "webDimensions": [
+      563,
+      640
+    ]
+  },
+  {
+    "file": "/images/collection-08.jpg",
+    "original": "C:\\Projects\\prospect-research\\nov17-fashion-build2\\guya-boutique\\assets\\source-12.jpg",
+    "sha256": "64e98fff646808bcdebc89ddc7625a377d4e26aa481a1c950aea088d3cc99130",
+    "originalDimensions": [
+      360,
+      640
+    ],
+    "webDimensions": [
+      360,
+      640
+    ]
+  },
+  {
+    "file": "/images/collection-09.jpg",
+    "original": "C:\\Projects\\prospect-research\\nov17-fashion-build2\\guya-boutique\\assets\\source-09.jpg",
+    "sha256": "3d9405a68919a2c596014098fa3625ab8dc1ddf551676b3fdd91b2781145f2c9",
+    "originalDimensions": [
+      529,
+      640
+    ],
+    "webDimensions": [
+      529,
+      640
+    ]
+  },
+  {
+    "file": "/images/collection-10.jpg",
+    "original": "C:\\Projects\\prospect-research\\nov17-fashion-build2\\guya-boutique\\assets\\source-11.jpg",
+    "sha256": "77fdcf375a79cb96ab3c8c2eb8b051596999485a5f77147485b048bac7c7f1e2",
+    "originalDimensions": [
+      360,
+      640
+    ],
+    "webDimensions": [
+      360,
+      640
+    ]
+  }
+]

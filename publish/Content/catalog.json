@@ -1,0 +1,162 @@
+{
+  "brand": "GUYA Boutique",
+  "contactMode": "whatsapp",
+  "phone": "96181763695",
+  "displayPhone": "+961 81 763 695",
+  "instagram": "https://www.instagram.com/guya.boutique/",
+  "hours": "Confirm current visiting hours with the boutique",
+  "hero": "/images/collection-03.jpg",
+  "story": "/images/collection-09.jpg",
+  "galleryImages": [
+    "/images/collection-01.jpg",
+    "/images/collection-02.jpg",
+    "/images/collection-03.jpg",
+    "/images/collection-04.jpg",
+    "/images/collection-05.jpg",
+    "/images/collection-06.jpg",
+    "/images/collection-09.jpg",
+    "/images/collection-07.jpg",
+    "/images/collection-10.jpg",
+    "/images/collection-08.jpg"
+  ],
+  "products": [
+    {
+      "id": "plum-zip-coordinated-look",
+      "name": "Plum Zip Coordinated Look",
+      "collection": "Occasion looks",
+      "audience": "The edit",
+      "family": "",
+      "description": "A dark plum fitted zip-front sleeveless top styled with matching-looking trousers. Confirm the exact garment reference, fit, colour, current availability and price with the boutique. Styling accessories and separate garments are not automatically included.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "images": [
+        "/images/collection-01.jpg"
+      ],
+      "source": "https://www.instagram.com/guya.boutique/reel/Dft7CcPuTR8/"
+    },
+    {
+      "id": "belted-outer-layer-edit",
+      "name": "Belted Outer Layer Edit",
+      "collection": "Outer layers",
+      "audience": "The edit",
+      "family": "",
+      "description": "Three short belted outer layers in brown, cream and black, shown together in the boutique’s native photo. The picture presents a selection; the items are not assumed to be a bundle. Confirm the exact garment reference, fit, colour, current availability and price with the boutique. Styling accessories and separate garments are not automatically included.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "images": [
+        "/images/collection-02.jpg"
+      ],
+      "source": "https://www.instagram.com/guya.boutique/p/Dfov19XDoFo/"
+    },
+    {
+      "id": "beige-collared-knit",
+      "name": "Beige Collared Knit",
+      "collection": "Knitwear",
+      "audience": "The edit",
+      "family": "",
+      "description": "A beige ribbed zip-front knit with a soft-looking collar and cuffs, styled with blue jeans. Confirm the exact garment reference, fit, colour, current availability and price with the boutique. Styling accessories and separate garments are not automatically included.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "images": [
+        "/images/collection-03.jpg"
+      ],
+      "source": "https://www.instagram.com/guya.boutique/p/DfjmuhLjvKP/"
+    },
+    {
+      "id": "plum-cape-look",
+      "name": "Plum Cape Look",
+      "collection": "Outer layers",
+      "audience": "The edit",
+      "family": "",
+      "description": "A plum short cape-style layer with light buttons styled over a dark top and short lower layer. Confirm the exact garment reference, fit, colour, current availability and price with the boutique. Styling accessories and separate garments are not automatically included.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "images": [
+        "/images/collection-04.jpg"
+      ],
+      "source": "https://www.instagram.com/guya.boutique/reel/Dfh4N7aOQzw/"
+    },
+    {
+      "id": "ivory-knit-look",
+      "name": "Ivory Knit Look",
+      "collection": "Knitwear",
+      "audience": "The edit",
+      "family": "",
+      "description": "An ivory long-sleeved fitted knit top styled with a dark short skirt and tall boots. Confirm the exact garment reference, fit, colour, current availability and price with the boutique. Styling accessories and separate garments are not automatically included.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "images": [
+        "/images/collection-05.jpg"
+      ],
+      "source": "https://www.instagram.com/guya.boutique/reel/Dfb2Aw9u5-x/"
+    },
+    {
+      "id": "cream-button-cardigan",
+      "name": "Cream Button Cardigan",
+      "collection": "Knitwear",
+      "audience": "The edit",
+      "family": "",
+      "description": "A cream button-front cardigan shown with blue jeans. Confirm the exact garment reference, fit, colour, current availability and price with the boutique. Styling accessories and separate garments are not automatically included.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "images": [
+        "/images/collection-06.jpg"
+      ],
+      "source": "https://www.instagram.com/guya.boutique/reel/DfZXw9Rue6b/"
+    },
+    {
+      "id": "burgundy-button-jacket",
+      "name": "Burgundy Button Jacket",
+      "collection": "Outer layers",
+      "audience": "The edit",
+      "family": "",
+      "description": "A burgundy short button-front jacket with a wide collar and gathered shoulder detailing, styled with denim. Confirm the exact garment reference, fit, colour, current availability and price with the boutique. Styling accessories and separate garments are not automatically included.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "images": [
+        "/images/collection-07.jpg"
+      ],
+      "source": "https://www.instagram.com/guya.boutique/p/DfWxsMMjkS7/"
+    },
+    {
+      "id": "black-cutout-dress",
+      "name": "Black Cutout Dress Look",
+      "collection": "Occasion looks",
+      "audience": "The edit",
+      "family": "",
+      "description": "A short black sleeveless dress with a cutout neckline, shown with dark tights. Confirm the exact garment reference, fit, colour, current availability and price with the boutique. Styling accessories and separate garments are not automatically included.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "images": [
+        "/images/collection-08.jpg"
+      ],
+      "source": "https://www.instagram.com/guya.boutique/reel/DfNiV9nuVUV/"
+    }
+  ],
+  "services": [],
+  "branches": []
+}

@@ -1,0 +1,311 @@
+{
+  "brand": "GUYA Boutique",
+  "handle": "guya.boutique",
+  "instagram": "https://www.instagram.com/guya.boutique/",
+  "contactMode": "whatsapp",
+  "phone": "96181763695",
+  "displayPhone": "+961 81 763 695",
+  "publicPhoneObserved": "96181763695",
+  "hours": "Confirm current visiting hours with the boutique",
+  "followersObserved": null,
+  "followersDisplay": "16.9K",
+  "latestVisiblePost": "2026-11-17",
+  "latestVisibleCollectionPost": "2026-11-14",
+  "researchDate": "2026-11-17",
+  "profileBio": "Worldwide shipping ✈️\n▪️Byblos - Centre Elysee 1st floor\n▪️Whatsapp +96181763695\n📸 All photos & videos are exclusively shot in our studio.",
+  "bioLinks": [],
+  "branches": [],
+  "about": "From a soft knit to an expressive evening look, discover GUYA Boutique’s photographed collection. The boutique is based at Centre Elysee, first floor, in Byblos and welcomes WhatsApp enquiries. Ask the team to help with your preferred fit and occasion.",
+  "heroImage": "C:\\Projects\\prospect-research\\nov17-fashion-build2\\guya-boutique\\assets\\native-hero.jpg",
+  "storyImage": "C:/Projects/prospect-research/nov17-fashion-build2/guya-boutique/assets/source-09.jpg",
+  "galleryImages": [
+    "C:/Projects/prospect-research/nov17-fashion-build2/guya-boutique/assets/source-02.jpg",
+    "C:/Projects/prospect-research/nov17-fashion-build2/guya-boutique/assets/source-03.jpg",
+    "C:\\Projects\\prospect-research\\nov17-fashion-build2\\guya-boutique\\assets\\native-hero.jpg",
+    "C:/Projects/prospect-research/nov17-fashion-build2/guya-boutique/assets/source-06.jpg",
+    "C:/Projects/prospect-research/nov17-fashion-build2/guya-boutique/assets/source-07.jpg",
+    "C:/Projects/prospect-research/nov17-fashion-build2/guya-boutique/assets/source-08.jpg",
+    "C:/Projects/prospect-research/nov17-fashion-build2/guya-boutique/assets/source-09.jpg",
+    "C:/Projects/prospect-research/nov17-fashion-build2/guya-boutique/assets/source-10.jpg",
+    "C:/Projects/prospect-research/nov17-fashion-build2/guya-boutique/assets/source-11.jpg",
+    "C:/Projects/prospect-research/nov17-fashion-build2/guya-boutique/assets/source-12.jpg"
+  ],
+  "products": [
+    {
+      "id": "plum-zip-coordinated-look",
+      "name": "Plum Zip Coordinated Look",
+      "category": "Occasion looks",
+      "description": "A dark plum fitted zip-front sleeveless top styled with matching-looking trousers. Confirm the exact garment reference, fit, colour, current availability and price with the boutique. Styling accessories and separate garments are not automatically included.",
+      "images": [
+        "C:/Projects/prospect-research/nov17-fashion-build2/guya-boutique/assets/source-02.jpg"
+      ],
+      "sourcePost": "https://www.instagram.com/guya.boutique/reel/Dft7CcPuTR8/",
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ]
+    },
+    {
+      "id": "belted-outer-layer-edit",
+      "name": "Belted Outer Layer Edit",
+      "category": "Outer layers",
+      "description": "Three short belted outer layers in brown, cream and black, shown together in the boutique’s native photo. The picture presents a selection; the items are not assumed to be a bundle. Confirm the exact garment reference, fit, colour, current availability and price with the boutique. Styling accessories and separate garments are not automatically included.",
+      "images": [
+        "C:/Projects/prospect-research/nov17-fashion-build2/guya-boutique/assets/source-03.jpg"
+      ],
+      "sourcePost": "https://www.instagram.com/guya.boutique/p/Dfov19XDoFo/",
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ]
+    },
+    {
+      "id": "beige-collared-knit",
+      "name": "Beige Collared Knit",
+      "category": "Knitwear",
+      "description": "A beige ribbed zip-front knit with a soft-looking collar and cuffs, styled with blue jeans. Confirm the exact garment reference, fit, colour, current availability and price with the boutique. Styling accessories and separate garments are not automatically included.",
+      "images": [
+        "C:\\Projects\\prospect-research\\nov17-fashion-build2\\guya-boutique\\assets\\native-hero.jpg"
+      ],
+      "sourcePost": "https://www.instagram.com/guya.boutique/p/DfjmuhLjvKP/",
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ]
+    },
+    {
+      "id": "plum-cape-look",
+      "name": "Plum Cape Look",
+      "category": "Outer layers",
+      "description": "A plum short cape-style layer with light buttons styled over a dark top and short lower layer. Confirm the exact garment reference, fit, colour, current availability and price with the boutique. Styling accessories and separate garments are not automatically included.",
+      "images": [
+        "C:/Projects/prospect-research/nov17-fashion-build2/guya-boutique/assets/source-06.jpg"
+      ],
+      "sourcePost": "https://www.instagram.com/guya.boutique/reel/Dfh4N7aOQzw/",
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ]
+    },
+    {
+      "id": "ivory-knit-look",
+      "name": "Ivory Knit Look",
+      "category": "Knitwear",
+      "description": "An ivory long-sleeved fitted knit top styled with a dark short skirt and tall boots. Confirm the exact garment reference, fit, colour, current availability and price with the boutique. Styling accessories and separate garments are not automatically included.",
+      "images": [
+        "C:/Projects/prospect-research/nov17-fashion-build2/guya-boutique/assets/source-07.jpg"
+      ],
+      "sourcePost": "https://www.instagram.com/guya.boutique/reel/Dfb2Aw9u5-x/",
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ]
+    },
+    {
+      "id": "cream-button-cardigan",
+      "name": "Cream Button Cardigan",
+      "category": "Knitwear",
+      "description": "A cream button-front cardigan shown with blue jeans. Confirm the exact garment reference, fit, colour, current availability and price with the boutique. Styling accessories and separate garments are not automatically included.",
+      "images": [
+        "C:/Projects/prospect-research/nov17-fashion-build2/guya-boutique/assets/source-08.jpg"
+      ],
+      "sourcePost": "https://www.instagram.com/guya.boutique/reel/DfZXw9Rue6b/",
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ]
+    },
+    {
+      "id": "burgundy-button-jacket",
+      "name": "Burgundy Button Jacket",
+      "category": "Outer layers",
+      "description": "A burgundy short button-front jacket with a wide collar and gathered shoulder detailing, styled with denim. Confirm the exact garment reference, fit, colour, current availability and price with the boutique. Styling accessories and separate garments are not automatically included.",
+      "images": [
+        "C:/Projects/prospect-research/nov17-fashion-build2/guya-boutique/assets/source-10.jpg"
+      ],
+      "sourcePost": "https://www.instagram.com/guya.boutique/p/DfWxsMMjkS7/",
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ]
+    },
+    {
+      "id": "black-cutout-dress",
+      "name": "Black Cutout Dress Look",
+      "category": "Occasion looks",
+      "description": "A short black sleeveless dress with a cutout neckline, shown with dark tights. Confirm the exact garment reference, fit, colour, current availability and price with the boutique. Styling accessories and separate garments are not automatically included.",
+      "images": [
+        "C:/Projects/prospect-research/nov17-fashion-build2/guya-boutique/assets/source-12.jpg"
+      ],
+      "sourcePost": "https://www.instagram.com/guya.boutique/reel/DfNiV9nuVUV/",
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ]
+    }
+  ],
+  "imageProvenance": [
+    {
+      "index": 2,
+      "path": "C:\\Projects\\prospect-research\\nov17-fashion-build2\\guya-boutique\\assets\\source-02.jpg",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.71878-15/902601551_2238182550458470_7596421260058895760_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=103&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=oKTWsAlH_7QQ7kNvwGSO0Su&_nc_oc=AdpPV7D8H90SUP4lquh18wp_q7KQyUq60adVDzS4CFcTD0RGYp661QeZvD0jl1PlEf0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=HYWkaYBPsSXFx6bBE2Hjnw&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQ4AAAA&oh=00_AQS6pZUbwD2hlEp_poci_yPCr6R8PyzICQxNzaNu5UKarA&oe=6B026F14",
+      "sourcePost": "https://www.instagram.com/guya.boutique/reel/Dft7CcPuTR8/",
+      "alt": "Video by -GUYA- on November 14, 2026. May be an image of leather and text.",
+      "width": 361,
+      "height": 640,
+      "sha256": "014747dbfd5255adf596727ffaa0fe7e5e2b173af91e9f86a5bc9014ab768135",
+      "sourceImageType": "Native public Reel cover still",
+      "observedDate": "2026-11-17",
+      "selected": true,
+      "aiOriginIndependentlyVerified": false,
+      "observationMethod": "Root inspected the rendered public Instagram profile and exported observed image assets with pageAssets; no guessed URLs or extracted video frames."
+    },
+    {
+      "index": 3,
+      "path": "C:\\Projects\\prospect-research\\nov17-fashion-build2\\guya-boutique\\assets\\source-03.jpg",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/885805742_18642178825033884_4710601053901641690_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=108&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=mq2PFHKOltkQ7kNvwG9WFrp&_nc_oc=AdpooNt0_gYFycqj2G5RDKMclmtygy4NbJCmdJZNIHrmmbZR6Bc7VTELekm85kHzuHY&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=HYWkaYBPsSXFx6bBE2Hjnw&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQIAAAA&oh=00_AQT4amM1NJzMyDLLdGCrgEpvFpiMIHd42hW1ZqlI1Vb97A&oe=6B028BB9",
+      "sourcePost": "https://www.instagram.com/guya.boutique/p/Dfov19XDoFo/",
+      "alt": "Photo by -GUYA- on November 12, 2026. May be an image of text.",
+      "width": 640,
+      "height": 480,
+      "sha256": "154e48fe1e3aa330ee8fd118df421b46281ee8c73fe95ad39b592659093452f9",
+      "sourceImageType": "Native public photo still",
+      "observedDate": "2026-11-17",
+      "selected": true,
+      "aiOriginIndependentlyVerified": false,
+      "observationMethod": "Root inspected the rendered public Instagram profile and exported observed image assets with pageAssets; no guessed URLs or extracted video frames."
+    },
+    {
+      "index": 5,
+      "path": "C:\\Projects\\prospect-research\\nov17-fashion-build2\\guya-boutique\\assets\\native-hero.jpg",
+      "sourceUrl": "https://instagram.fbey14-1.fna.fbcdn.net/v/t51.82787-15/883452529_18641502112033884_8166955996832506973_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&_nc_map=urlgen_bucketless&ig_cache_key=NDAyNzIzMjYxMjAxODM5NDc4Nw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuODUyLnNkci5yZWd1bGFyX3Bob3RvLkMzIn0%3D&_nc_ohc=6tcMrOhUsZsQ7kNvwFJgd89&_nc_oc=AdqodXODeWd0VdHLCO28XgoHwRo5GLN6T9KM8qo2GnTGNcw1jdE2K_dejWZG8cIiZuc&_nc_zt=23&_nc_ht=instagram.fbey14-1.fna&_nc_gid=fqFp9-Mig4OKjPQTOLCKHA&_nc_ss=7ba8c&_nc_ct=RQosPBUIFQIlBAAAAA&oh=00_AQQqJo2YtG5L4Ct8iqty210341aTkqhqdpcPEzOIKz4eOQ&oe=6B027B65",
+      "sourcePost": "https://www.instagram.com/guya.boutique/p/DfjmuhLjvKP/",
+      "alt": "Photo by -GUYA- on November 10, 2026. May be an image of sable coat, sweater, cardigan and text.",
+      "width": 852,
+      "height": 1136,
+      "sha256": "7f9a3296989cf1f18da8d5b3415f96e87d3f61539ea5ec763cc48e0ce4874d4a",
+      "sourceImageType": "Native public photo still (full source image, replacing equivalent grid thumbnail)",
+      "observedDate": "2026-11-17",
+      "selected": true,
+      "aiOriginIndependentlyVerified": false,
+      "observationMethod": "Root inspected the rendered public Instagram profile and exported observed image assets with pageAssets; no guessed URLs or extracted video frames."
+    },
+    {
+      "index": 6,
+      "path": "C:\\Projects\\prospect-research\\nov17-fashion-build2\\guya-boutique\\assets\\source-06.jpg",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/883309443_18641267932033884_7671398213682132152_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=109&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=X3csOHrPwrkQ7kNvwFZmMK8&_nc_oc=AdpSNhtaMlA7CJAeBXEL_xALlTyFXRcLzy_zlHTMDzVKe7Oq5DynLcwIIlcagyqmhq4&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=HYWkaYBPsSXFx6bBE2Hjnw&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQQAAAA&oh=00_AQTiGlk2-E78ZO6WSUdO2AKwGEf-mf5aifgaJ6-jwmmKng&oe=6B0266D8",
+      "sourcePost": "https://www.instagram.com/guya.boutique/reel/Dfh4N7aOQzw/",
+      "alt": "Video by -GUYA- on November 09, 2026. May be an image of overskirt, coat, jacket, miniskirt, skirt, top and text.",
+      "width": 360,
+      "height": 640,
+      "sha256": "0ba9bc082c8be22f86e330338ebd10d33840ba1dbd1b2ccc1f8e158b2cab5b93",
+      "sourceImageType": "Native public Reel cover still",
+      "observedDate": "2026-11-17",
+      "selected": true,
+      "aiOriginIndependentlyVerified": false,
+      "observationMethod": "Root inspected the rendered public Instagram profile and exported observed image assets with pageAssets; no guessed URLs or extracted video frames."
+    },
+    {
+      "index": 7,
+      "path": "C:\\Projects\\prospect-research\\nov17-fashion-build2\\guya-boutique\\assets\\source-07.jpg",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.71878-15/889140131_1433052635066053_6896350124332465527_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=100&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=cyQNvJMEKZAQ7kNvwHt-NOy&_nc_oc=AdqEqFig0rDL7NK2S9FXwNQNkgCB-OM5fLMvYth0nyQGdjxiLkRjtKcL_rXAiSlyeMQ&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=HYWkaYBPsSXFx6bBE2Hjnw&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQQAAAA&oh=00_AQTBwpDcwVhOyMKkYXPpIcSPqIi_cfXEPzBi_ECHSjhQAw&oe=6B025F54",
+      "sourcePost": "https://www.instagram.com/guya.boutique/reel/Dfb2Aw9u5-x/",
+      "alt": "Video by -GUYA- on November 07, 2026. May be an image of boots, cardigan, skirt, miniskirt, sweater and text.",
+      "width": 361,
+      "height": 640,
+      "sha256": "e1123b3468cb8e5383a87c45a9183e167be73cc0ecd800af9d4e12721b582038",
+      "sourceImageType": "Native public Reel cover still",
+      "observedDate": "2026-11-17",
+      "selected": true,
+      "aiOriginIndependentlyVerified": false,
+      "observationMethod": "Root inspected the rendered public Instagram profile and exported observed image assets with pageAssets; no guessed URLs or extracted video frames."
+    },
+    {
+      "index": 8,
+      "path": "C:\\Projects\\prospect-research\\nov17-fashion-build2\\guya-boutique\\assets\\source-08.jpg",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/880079228_18640089778033884_4683570808683966564_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=108&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=sEZ2VYJhUroQ7kNvwEAISIA&_nc_oc=AdoWzf6cbjPInNazIy7JPLOk6whtvMiLqLseN35NRAkRL8ZLeUMBRXJnwM4VROD60n0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=HYWkaYBPsSXFx6bBE2Hjnw&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQQAAAA&oh=00_AQS_4EacTgVdLWUZoQbCgSAtcrX9Lq2AamWic24Leqj9vw&oe=6B027D86",
+      "sourcePost": "https://www.instagram.com/guya.boutique/reel/DfZXw9Rue6b/",
+      "alt": "Video by -GUYA- on November 06, 2026. May be a selfie of jacket, cardigan and text.",
+      "width": 360,
+      "height": 640,
+      "sha256": "75faf5badd1a8b87cb54f3d3a9188aeb69c63ea2993aacb002f4e5de0b7ae6f8",
+      "sourceImageType": "Native public Reel cover still",
+      "observedDate": "2026-11-17",
+      "selected": true,
+      "aiOriginIndependentlyVerified": false,
+      "observationMethod": "Root inspected the rendered public Instagram profile and exported observed image assets with pageAssets; no guessed URLs or extracted video frames."
+    },
+    {
+      "index": 9,
+      "path": "C:\\Projects\\prospect-research\\nov17-fashion-build2\\guya-boutique\\assets\\source-09.jpg",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/858545527_18640909741033884_7762444234995871263_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=106&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=kzLBGRvtrgoQ7kNvwHtAXKW&_nc_oc=AdqKkMaQWpy1ZJu3YoNmagsb8T2PiIEEMU5ezilvOboOpKLZqC18X70Edi1nziPH7VI&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=HYWkaYBPsSXFx6bBE2Hjnw&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQIAAAA&oh=00_AQTt77nh23a9YwrPESY8chcrRm9YEpLf8qeGNEHpeu_9Bg&oe=6B028163",
+      "sourcePost": "https://www.instagram.com/guya.boutique/p/DffRKV9jldi/",
+      "alt": "Photo by -GUYA- on November 08, 2026.",
+      "width": 529,
+      "height": 640,
+      "sha256": "3d9405a68919a2c596014098fa3625ab8dc1ddf551676b3fdd91b2781145f2c9",
+      "sourceImageType": "Native public photo still",
+      "observedDate": "2026-11-17",
+      "selected": true,
+      "aiOriginIndependentlyVerified": false,
+      "observationMethod": "Root inspected the rendered public Instagram profile and exported observed image assets with pageAssets; no guessed URLs or extracted video frames."
+    },
+    {
+      "index": 10,
+      "path": "C:\\Projects\\prospect-research\\nov17-fashion-build2\\guya-boutique\\assets\\source-10.jpg",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/880208881_18639774547033884_4387228540172573842_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=105&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=C6P0nPefSZUQ7kNvwFfFMwq&_nc_oc=Adr1irPuS1ZBLVIjT1pVMYP9PrEw4kFn_Nask6gCBpC8NPU6qZatIJBSzXYqsld4geQ&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=HYWkaYBPsSXFx6bBE2Hjnw&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQIAAAA&oh=00_AQQ_fril0qQv3dcqpCA9aLh_JZZWDIN1CfakjlYwCVSgow&oe=6B0278C5",
+      "sourcePost": "https://www.instagram.com/guya.boutique/p/DfWxsMMjkS7/",
+      "alt": "Photo by -GUYA- on November 05, 2026.",
+      "width": 563,
+      "height": 640,
+      "sha256": "7db93dafea9bc0a48fd5a22de4e0377c2844cb1a9125bc66b4fcc5d17f388096",
+      "sourceImageType": "Native public photo still",
+      "observedDate": "2026-11-17",
+      "selected": true,
+      "aiOriginIndependentlyVerified": false,
+      "observationMethod": "Root inspected the rendered public Instagram profile and exported observed image assets with pageAssets; no guessed URLs or extracted video frames."
+    },
+    {
+      "index": 11,
+      "path": "C:\\Projects\\prospect-research\\nov17-fashion-build2\\guya-boutique\\assets\\source-11.jpg",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/880241063_18639165688033884_4951624816877718280_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=108&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=7cxJXf1bp4MQ7kNvwHUgAIb&_nc_oc=AdpY8FWDnnbkb2VY5TEPntShzPG5q3MUpTP7kBF9HoVeV3Loy_ML19wE_SXRlBiV1HQ&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=HYWkaYBPsSXFx6bBE2Hjnw&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQQAAAA&oh=00_AQR4Lj4-YuFEXkQMnAilVD0hKcbGMQGEed7br5h_9wsbyw&oe=6B029261",
+      "sourcePost": "https://www.instagram.com/guya.boutique/reel/DfSfBDvu1lo/",
+      "alt": "Video by -GUYA- on November 03, 2026. May be an image of leather, cardigan, skirt, sweater, miniskirt and text.",
+      "width": 360,
+      "height": 640,
+      "sha256": "77fdcf375a79cb96ab3c8c2eb8b051596999485a5f77147485b048bac7c7f1e2",
+      "sourceImageType": "Native public Reel cover still",
+      "observedDate": "2026-11-17",
+      "selected": true,
+      "aiOriginIndependentlyVerified": false,
+      "observationMethod": "Root inspected the rendered public Instagram profile and exported observed image assets with pageAssets; no guessed URLs or extracted video frames."
+    },
+    {
+      "index": 12,
+      "path": "C:\\Projects\\prospect-research\\nov17-fashion-build2\\guya-boutique\\assets\\source-12.jpg",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/878238996_18638532640033884_8610425452004665065_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=111&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=aNo4IaQQOwwQ7kNvwELa-c3&_nc_oc=AdobArlXoz5BnoX2O8NcSXjs4R-bNNiEK7Xxxe9quhC8IjPuTK3brvWC1M8VOM2HZBQ&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=HYWkaYBPsSXFx6bBE2Hjnw&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQQAAAA&oh=00_AQSekpR9m_u3P7D8mV3BvdGm7kyzecg5Lycto4Vd1xo0lA&oe=6B0283CE",
+      "sourcePost": "https://www.instagram.com/guya.boutique/reel/DfNiV9nuVUV/",
+      "alt": "Video by -GUYA- on November 01, 2026. May be an image of tights, dress and text.",
+      "width": 360,
+      "height": 640,
+      "sha256": "64e98fff646808bcdebc89ddc7625a377d4e26aa481a1c950aea088d3cc99130",
+      "sourceImageType": "Native public Reel cover still",
+      "observedDate": "2026-11-17",
+      "selected": true,
+      "aiOriginIndependentlyVerified": false,
+      "observationMethod": "Root inspected the rendered public Instagram profile and exported observed image assets with pageAssets; no guessed URLs or extracted video frames."
+    }
+  ],
+  "activityEvidence": "The public profile includes an own November17 festive travel/collection teaser, excluded from website imagery, and an own clothing Reel dated November14,2026. Public native collection photographs and covers dated November1–14 were reviewed.",
+  "contactEvidence": "Current official Instagram biography explicitly lists WhatsApp +96181763695. The older Facebook71707137 number was excluded.",
+  "websiteCheck": {
+    "result": "No matching official website found in checked public biography links and bounded handle/name searches; an unlisted website cannot be ruled out.",
+    "checkedDate": "2026-11-17",
+    "sources": [
+      "https://www.instagram.com/guya.boutique/",
+      "https://www.google.com/search?q=%22guya.boutique%22+website+shop"
+    ],
+    "evidence": "Expanded current Instagram bio has WhatsApp and no website. Exact handle and Byblos/name searches found social/Maps results; Maps offers Add website. Facebook intro also has no shop link. Related website snippets belonged to other posts and do not identify a GUYA shop. Current IG phone81763695 overrides oldFacebook71707137."
+  },
+  "imageNotes": "Ten unique native public still files: four regular photo stills and six Reel-cover stills. No video files downloaded or frames extracted. Excluded source01TokyoTower teaser and source04expired11:11sale poster. Hero source5 replaced by exact native852×1136photo; other selected images remain source-sized. Use contained or narrow layouts for Reel covers. Source09 and11 are additional visual-diary inspiration rather than separately asserted stock items. Studio-photo origin is a biography claim, not independently verified. Materials, stock, garment inclusions and present prices are not inferred."
+}
